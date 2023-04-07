@@ -1,0 +1,45 @@
+{
+      "437462376271314954": {
+            "nick": "A1lpha Playlists",
+            "pl1Nome": "Playlist 1 | Capsule",
+            "pl2Nome": "Playlist 2",
+            "pl3Nome": "Playlist 3",
+            "pl1": {
+                  "musica1": "1:⠀The Music - Capsule",
+                  "musica2": "2:⠀Feel Again - Capsule",
+                  "musica3": "3:⠀Control - Capsule",
+                  "musica4": "4:⠀Another World - Capsule",
+                  "musica5": "5:⠀Dreamin'Boy - Capsule",
+                  "musica6": "6:⠀White As Snow - Capsule",
+                  "musica7": "7:⠀",
+                  "musica8": "8:⠀",
+                  "musica9": "9:⠀",
+                  "musica10": "10:⠀"
+            },
+            "pl2": {
+                  "musica1": "1:⠀",
+                  "musica2": "2:⠀",
+                  "musica3": "3:⠀",
+                  "musica4": "4:⠀",
+                  "musica5": "5:⠀",
+                  "musica6": "6:⠀",
+                  "musica7": "7:⠀",
+                  "musica8": "8:⠀",
+                  "musica9": "9:⠀",
+                  "musica10": "10:⠀"
+            },
+            "pl3": {
+                  "musica1": "1:⠀",
+                  "musica2": "2:⠀",
+                  "musica3": "3:⠀",
+                  "musica4": "4:⠀",
+                  "musica5": "5:⠀",
+                  "musica6": "6:⠀",
+                  "musica7": "7:⠀",
+                  "musica8": "8:⠀",
+                  "musica9": "9:⠀",
+                  "musica10": "10:⠀"
+            }
+      }
+
+}

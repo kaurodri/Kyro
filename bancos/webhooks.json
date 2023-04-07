@@ -1,0 +1,35 @@
+{
+    "wb_tft": [
+        {
+            "id": "824653021366583356",
+            "token": "vwRYD0WHs0WQuo_lr2azWg7tpc0L4vAh8ViRxZbX6UoX53nlvZmdKpcy8lOWodVYt6vI",
+            "nome": "Kyro - TFT",
+            "imagem": "https://cdn.discordapp.com/attachments/678637048709775374/826112738698461194/PicsArt_03-29-12.18.08.jpg",
+            "canal": ""
+        }
+    ],
+    "wb_lol": [
+        {
+            "id": "824649192940634142",
+            "token": "MPzx3xVLcmMw7riiw8x5_PtoDafOL8kXwJ-Q2YSblL2TsozZaDO1DsJCTCuA86QpgV6L",
+            "nome": "Kyro - LoL",
+            "imagem": "https://cdn.discordapp.com/attachments/678637048709775374/825777928917876766/PicsArt_03-28-02.07.07.jpg"
+        }
+    ],
+    "wb_fate": [
+        {
+            "id": "824687683330637851",
+            "token": "hgkOwldjEvFY9urpEZNpmc41tVbwzihH7XE_7YdOveDVvcRU9FuzHkDdOcqzED0KqlNr",
+            "nome": "Kyro - FateGo",
+            "imagem": "https://cdn.discordapp.com/attachments/678637048709775374/824687119959588894/PicsArt_03-25-01.53.09.jpg"
+        }
+    ],
+    "wb_wild": [
+        {
+            "id": "825774115842949140",
+            "token": "Azx4TpwuBA4ZRy4McUCYTskjM1jyRvap8F6Q4mxjf3T0j6POW9aGivR5semgHl4bYvKK",
+            "nome": "Kyro - WildRift",
+            "imagem": "https://cdn.discordapp.com/attachments/678637048709775374/825913844504592404/PicsArt_03-28-11.07.07.jpg"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "status_perfil": "false",
+    "status_editar": "false",
+    "status_registrar": "false",
+
+    "status_curtir": "true",
+
+    "status_bomdia": "false",
+    "status_reagir": "false",
+    "status_mandarEmbed": "false",
+    "status_palavras": "false",
+    "status_help": "false",
+    "status_avatar": "false",
+    "status_canal": "false",
+    "status_color": "false",
+    "status_dado": "false",
+    "status_emote": "false",
+    "status_config": "false",
+    "status_webhooks": "false",
+    "rea_status_cQuaren": "false",
+    "rea_status_cChips": "false",
+    "raw_status_pokemon": "true"
+}

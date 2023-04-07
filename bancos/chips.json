@@ -1,0 +1,49 @@
+{
+    "w_et1_g1_p1": "Tai",
+	"w_et1_g1_p2": "Jeã",
+    "w_et1_g1_win": "Jeã",
+    
+    "w_et1_g2_p1": "A1l",
+	"w_et1_g2_p2": "Nazer",
+    "w_et1_g2_win": "A1l",
+    
+    "w_et1_g3_p1": "Arm",
+	"w_et1_g3_p2": "Abner",
+    "w_et1_g3_win": "Abner",
+    
+    "w_et1_g4_p1": "Natsuki",
+	"w_et1_g4_p2": "Matt",
+    "w_et1_g4_win": "Matt",
+
+    "w_et2_g1_p1": "Jeã",
+	"w_et2_g1_p2": "A1l",
+    "w_et2_g1_win": "Jeã",
+    
+    "w_et2_g2_p1": "Abner",
+	"w_et2_g2_p2": "Matt",
+    "w_et2_g2_win": "Abner",
+
+    "w_et3_gf_p1": "Jeã",
+	"w_et3_gf_p2": "Abner",
+    "w_et3_gf_win": "•",
+
+    "b_et1_g1_p1": "Natsuki",
+	"b_et1_g1_p2": "Nazer",
+    "b_et1_g1_win": "Nazer",
+    
+    "b_et1_g2_p1": "Tai",
+	"b_et1_g2_p2": "Arm",
+    "b_et1_g2_win": "Tai",
+
+    "b_et2_g1_p1": "Nazer",
+	"b_et2_g1_p2": "A1l",
+    "b_et2_g1_win": "•",
+    
+    "b_et2_g2_p1": "Tai",
+	"b_et2_g2_p2": "Matt",
+    "b_et2_g2_win": "•",
+
+    "b_et3_gf_p1": "•",
+	"b_et3_gf_p2": "•",
+    "b_et3_gf_win": "•"
+}
