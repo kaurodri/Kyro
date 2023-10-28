@@ -1,2 +1,2 @@
 # Kyro
-Discord Bot.
+Discord Bot - Node.JS
